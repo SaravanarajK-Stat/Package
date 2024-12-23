@@ -1,0 +1,12 @@
+Package: creativePackage
+Type: Package
+Title: A Creative R Package
+Version: 0.1.0
+Author: Saravanaraj <saravanaraj@example.com>
+Maintainer: Saravanaraj <saravanaraj@example.com>
+Description: This package includes a creative function to generate a random dataset and perform exploratory data analysis.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Suggests: testthat, knitr, rmarkdown
